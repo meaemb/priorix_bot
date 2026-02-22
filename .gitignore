@@ -1,0 +1,4 @@
+.env
+priorix.sqlite
+__pycache__/
+*.pyc
